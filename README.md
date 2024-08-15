@@ -10,7 +10,7 @@ ServiceMetier581 permet que le service métier d'active tout seul a la connexion
 
 # :electric_plug:  Installation
 
-- 1 Télécharger le fichier ServiceMetier581.ddl
+- 1 Télécharger le fichier ServiceMetier581.dll
 - 2 Mettez le fichier dans le dossier plugin de vôtre serveur
 - 3 Utiliser le plugin
 
