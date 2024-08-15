@@ -1,3 +1,5 @@
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Statut581/total)
+
 # :zap: ServiceMetier581 V1.0
 
 ServiceMetier581 permet que le service métier d'active tout seul a la connexion du joueur.
