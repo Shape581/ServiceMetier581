@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/Shape581/Statut581/total)
+![GitHub all releases](https://img.shields.io/github/downloads/Shape581/ServiceMetier581/total)
 
 # :zap: ServiceMetier581 V1.0
 
